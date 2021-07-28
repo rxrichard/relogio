@@ -38,15 +38,17 @@ $ https://github.com/rxrichard/relogio.git
 
 
 ## 🏷Autor
- 
+ <h4>RICHARD MARTINS BASTOS </h4>
 <h2>Meus contatos: </h2>
 
-[![Linkedin Badge ](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rxrichard/) ](https://www.linkedin.com/in/rxrichard/)
+<a href="https://www.linkedin.com/in/rxrichard/" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"  height="40px" width='150px'/></a>
 
 <a href="https://api.whatsapp.com/send?phone=5511974490549" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-whatsapp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511974490549"/></a>
+  <img src="https://img.shields.io/badge/-whatsapp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511974490549"  height="40px" width='150px'/></a>
 
-[![Outlook](https://img.shields.io/badge/-outlook-2196f3?style=for-the-badge&logo=outlook&logoColor=white&link=mailto:rxrichard@outlook.com.br)](mailto:rxrichard@outlook.com.br)
+<a href="mailto:rxrichard@outlook.com.br" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-outlook-2196f3?style=for-the-badge&logo=outlook&logoColor=white&link=mailto:rxrichard@outlook.com.br)"  height="40px" width='150px'/></a>
 
 
 
